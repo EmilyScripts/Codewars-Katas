@@ -1,3 +1,4 @@
+//switch every letter in string from upper to lower or lower to upper case
 function alternateCase(str) {
     var resultStr = '';
     for (var i = 0; i < str.length; i++) {

@@ -1,3 +1,4 @@
+//reverse message into lower case with first letter capitalised
 function reverseMessage(str) {
     var reversed = str.toLowerCase().split('').reverse();
     reversed = reversed.join('').split(' ');

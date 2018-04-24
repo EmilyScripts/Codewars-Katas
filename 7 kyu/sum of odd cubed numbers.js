@@ -1,3 +1,5 @@
+//find sum of odd numbers in array after cubing initial integers
+//return undefined if any values aren't numbers
 function cubeOdd(arr) {
     var sum = 0;
     for (var i = 0; i < arr.length; i++) {

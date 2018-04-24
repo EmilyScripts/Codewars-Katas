@@ -1,3 +1,4 @@
+//return number of vowels in given string
 function getCount(str) {
     var vowelsCount = 0;
     var string = str.toString();

@@ -1,3 +1,4 @@
+//return length of shortest word in a given string
 function findShort(text) {
     var arr = text.split(' ');
     var smallest = arr[0];

@@ -1,3 +1,4 @@
+//return middle character of word, 2 if even word length
 function getMiddle(str) {
     var position
     var length

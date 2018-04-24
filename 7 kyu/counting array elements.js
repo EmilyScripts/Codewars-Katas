@@ -1,3 +1,4 @@
+//write function that takes an array and counts the number of unique elements
 function count(array) {
     var total = {};
     for (var i = 0; i < array.length; i++) {

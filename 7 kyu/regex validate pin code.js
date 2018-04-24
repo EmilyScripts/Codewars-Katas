@@ -1,3 +1,4 @@
+//allow 4 or 6 digit pin codes using numbers only, return true or false
 function validatePin(pin) {
     //new creates instance of user-defined object type
     //RegExp creates reg expression object for matching text with a pattern
